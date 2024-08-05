@@ -6,7 +6,6 @@
 <!-- Imagen -->
 <div style="position: relative; display: inline-block;">
   <img src="https://t4.ftcdn.net/jpg/04/04/73/39/360_F_404733910_2mIXr6RbC5G3WZJFjopVsBaR3EOM6Bqy.jpg" alt="Descripción de la Imagen" style="max-width: 100%; height: auto;">
-  <img src="https://media.tenor.com/N5fU8iyU9F4AAAAj/shigure-ui-dance.gif" alt="GIF" style="position: absolute; bottom: -90px; right: 0; width: 100px; height: 100px;">
 </div>
 
 <!-- Badges -->
